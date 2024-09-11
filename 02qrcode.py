@@ -1,3 +1,5 @@
+# 이 앱은 chatgpt의 도움으로 작성한 코드입니다.
+# 
 import streamlit as st
 import qrcode
 from PIL import Image
